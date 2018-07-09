@@ -1,0 +1,30 @@
+{
+  "1234" : {
+    "name" : "Виноград",
+    "cost" : 68.99,
+    "description" : "Спелый",
+    "order" : 1,
+    "img" : "grape.png"
+  },
+  "1235" : {
+    "name" : "Кавун",
+    "cost" : 44.99,
+    "description" : "Спелый, красный",
+    "order" : 4,
+    "img" : "watermelon.png"
+  },
+  "1236" : {
+    "name" : "Апельсин",
+    "cost" : 77.99,
+    "description" : "Спелый, большой",
+    "order" : 5,
+    "img" : "orange.png"
+  },
+  "1237" : {
+    "name" : "Ананас",
+    "cost" : 23.99,
+    "description" : "Спелый, долгий",
+    "order" : 9,
+    "img" : "malon.png"
+  }
+}
